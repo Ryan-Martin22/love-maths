@@ -116,10 +116,8 @@ body {
     font-size: 1rem;
     color: #445361;
     position: relative;
-    left: 0.53em;
-    
+    left: -0.5em;
 }
-
 
 .btn--blue {
     border-color: blue;
